@@ -14,3 +14,8 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+
+### 🔖 I've been using
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiatiahwang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
